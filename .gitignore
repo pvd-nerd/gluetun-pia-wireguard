@@ -1,23 +1,2 @@
-# Environment files
-.env
-.env.local
-.env.*.local
-
-# Docker volumes
-config/
-/gluetun/
-
-# IDE
-.vscode/
-.idea/
 .claude/
-*.swp
-*.swo
-
-# System
-.DS_Store
-Thumbs.db
-
-# Temporary files
-*.tmp
-/tmp/
+.gitignore/
